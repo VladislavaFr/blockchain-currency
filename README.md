@@ -36,7 +36,7 @@ The code also includes a calculator of currencies of interest.
   
   < To set the id of currencies, we use this document:
 
-   https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XGSyU/edit#gid=0
+   CoinGecko Token API List
 
 
 
