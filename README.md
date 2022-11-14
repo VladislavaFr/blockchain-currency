@@ -4,9 +4,9 @@ The code also includes a calculator of currencies of interest.
 
 
 
-To get started, we need to import the libraries:
+<<<To get started, we need to import the libraries:
 
-   Import files:
+  < Import files:
 
    import telebot
    from telebot import types
@@ -14,7 +14,7 @@ To get started, we need to import the libraries:
 
 
 
-Enter on the command line:
+<<<Enter on the command line:
 
    pip install pyTelegramBotAPI
    pip3 uninstall telebot
@@ -22,36 +22,36 @@ Enter on the command line:
 
 
 
-To work with exchange rates - install CoinGeckoAPI
+<<<To work with exchange rates - install CoinGeckoAPI
 
-   Import files:
+  < Import files:
 
    from pycoingecko import CoinGeckoAPI
   
    
-   Enter on the command line:
+  < Enter on the command line:
 
    pip install pycoingecko
 
   
-   To set the id of currencies, we use this document:
+  < To set the id of currencies, we use this document:
 
    https://docs.google.com/spreadsheets/d/1wTTuxXt8n9q7C4NDXqQpI3wpKu1_5bGVmP9Xz0XGSyU/edit#gid=0
 
 
 
 
-To convert, install this file:
+<<<To convert, install this file:
 
    https://pypi.org/project/py-currency-converter/
 
   
-  Import files:
+ < Import files:
 
    from py_currency_converter import convert
 
   
-  Enter on the command line:
+ < Enter on the command line:
 
    pip install py-currency-converter
 
